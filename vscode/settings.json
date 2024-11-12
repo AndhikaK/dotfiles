@@ -1,0 +1,95 @@
+{
+    "workbench.colorTheme": "Nord",
+    "workbench.iconTheme": "helium-icon-theme",
+    "editor.fontSize": 13,
+    "files.autoSave": "onFocusChange",
+    "gitlens.keymap": "alternate",
+    "editor.minimap.enabled": false,
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.renderWhitespace": "trailing",
+    "workbench.editor.showTabs": "single",
+    "workbench.editor.limit.enabled": true,
+    "workbench.editor.limit.perEditorGroup": true,
+    "workbench.editor.limit.value": 1,
+    "typescript.suggest.paths": false,
+    "javascript.suggest.paths": false,
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "indentRainbow.indicatorStyle": "light",
+    // we use a simple 1 pixel wide line
+    "indentRainbow.lightIndicatorStyleLineWidth": 2,
+    "indentRainbow.colors": [
+        "rgba(255,0,0,0.6)", // Red
+        "rgba(255,69,0,0.6)", // Red-Orange
+        "rgba(255,127,0,0.6)", // Orange
+        "rgba(255,255,0,0.6)", // Yellow
+        "rgba(127,255,0,0.6)", // Yellow-Green
+        "rgba(0,255,0,0.6)", // Green
+        "rgba(0,255,127,0.6)", // Green-Cyan
+        "rgba(0,255,255,0.6)", // Cyan
+        "rgba(0,127,255,0.6)", // Blue-Cyan
+        "rgba(0,0,255,0.6)" // Blue
+        
+        // "rgba(0,255,255,0.8)", // Cyan
+        // "rgba(0,191,255,0.8)", // Deep Sky Blue
+        // "rgba(0,128,255,0.8)", // Azure
+        // "rgba(0,0,255,0.8)", // Blue
+        // "rgba(75,0,130,0.8)", // Indigo
+        // "rgba(138,43,226,0.8)", // Blue Violet
+        // "rgba(70,130,180,0.8)", // Steel Blue
+        // "rgba(25,25,112,0.8)", // Midnight Blue
+        // "rgba(0,0,128,0.8)", // Navy
+        // "rgba(0,139,139,0.8)" // Dark Cyan
+    ],
+    "[mdx]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "snyk.advanced.cliPath": "/Users/andhika/Library/Application Support/snyk-ls/snyk-macos-arm64",
+    "snyk.trustedFolders": [
+        "/Users/andhika/Desktop/bitbucket_adira/akses/ms-batch"
+    ],
+    "snyk.yesWelcomeNotification": false,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "workbench.activityBar.location": "hidden",
+    "workbench.sideBar.location": "right",
+
+    // hellow
+    "breadcrumbs.enabled": false,
+    "scm.diffDecorations": "none",
+    "editor.hover.delay": 1500,
+    "editor.hover.enabled": true,
+    "editor.matchBrackets": "never",
+    "workbench.tips.enabled": false,
+    "editor.colorDecorators": false,
+    "git.decorations.enabled": false,
+    "workbench.startupEditor": "none",
+    "editor.lightbulb.enabled": "off",
+    "editor.selectionHighlight": false,
+    "editor.overviewRulerBorder": false,
+    "editor.renderLineHighlight": "none",
+    "editor.occurrencesHighlight": "off",
+    "problems.decorations.enabled": false,
+    "editor.renderControlCharacters": false,
+    "editor.hideCursorInOverviewRuler": true,
+    "editor.gotoLocation.multipleReferences": "goto",
+    "editor.gotoLocation.multipleDefinitions": "goto",
+    "editor.gotoLocation.multipleDeclarations": "goto",
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "editor.gotoLocation.multipleImplementations": "goto",
+    "editor.gotoLocation.multipleTypeDefinitions": "goto",
+}
